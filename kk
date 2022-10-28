@@ -1,1 +1,2 @@
-hi buddy 2
+mkdir hj
+echo "hi" > hjk.txt
